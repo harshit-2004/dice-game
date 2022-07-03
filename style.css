@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  background: #D3EBCD;
+}
+
+.box-1{
+  display: inline-block;
+  margin: 40px;
+}
+
+.box-2{
+  display: inline-block;
+}
+
+.first{
+  font-size: 9rem;
+  margin-bottom: 20px;
+}
+
+.clo{
+    color: #839AA8;
+}
